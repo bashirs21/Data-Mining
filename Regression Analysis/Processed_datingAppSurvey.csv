@@ -1,0 +1,201 @@
+,age,gender,apps_used,apps_purposes,apps_conversations,conversations_in_person,app_ease,physical_ease,online_ease,covid_apps_more,covid_physical_more,covid_online_more
+0,35-44,Man,"Tinder,Plenty of Fish",Finding short-term romantic or sexual relationships,Occasionally,Occasionally,7,7,5,1.0,1.0,7
+1,25-34,Man,Plenty of Fish,Finding long-term romantic or sexual relationships,Rarely,Rarely,3,5,5,7.0,7.0,7
+2,25-34,Woman,"Tinder,Bumble,Match,Plenty of Fish,OKCupid,Grindr","Finding short-term romantic or sexual relationships,Finding long-term romantic or sexual relationships",Occasionally,Occasionally,5,7,6,6.0,6.0,6
+3,35-44,Man,Tinder,"Finding short-term romantic or sexual relationships,Finding long-term romantic or sexual relationships,Entertainment",Occasionally,Rarely,2,1,1,1.0,1.0,5
+4,25-34,Man,"Tinder,Bumble,OKCupid","Finding short-term romantic or sexual relationships,Finding long-term romantic or sexual relationships,Making friends",Rarely,Occasionally,3,4,2,1.0,1.0,6
+5,45-54,Man,I have never used a dating app,I have never used a dating app,Never,Never,4,3,2,1.0,1.0,1
+6,25-34,Woman,I have never used a dating app,I have never used a dating app,Never,Never,5,3,4,1.0,1.0,1
+7,35-44,Woman,Tinder,Finding long-term romantic or sexual relationships,Occasionally,Occasionally,6,7,4,3.0,2.0,5
+8,25-34,Man,"Tinder,Match,OKCupid",Finding long-term romantic or sexual relationships,Occasionally,Rarely,3,5,3,3.0,2.0,7
+9,25-34,Woman,"Match,Coffee & Bagel",Finding long-term romantic or sexual relationships,Occasionally,Rarely,5,6,5,5.0,6.0,5
+10,18-24,Man,Plenty of Fish,"Finding short-term romantic or sexual relationships,Making friends,Entertainment",Never,Rarely,7,6,6,5.0,6.0,5
+11,25-34,Woman,"Tinder,Bumble,Plenty of Fish","Finding short-term romantic or sexual relationships,Finding long-term romantic or sexual relationships,Making friends,Personal validation,Entertainment",Rarely,Never,5,5,2,6.0,1.0,6
+12,35-44,Man,"Bumble,Match,OKCupid",Finding long-term romantic or sexual relationships,Occasionally,Occasionally,5,5,4,1.0,1.0,7
+13,25-34,Man,"Tinder,Plenty of Fish","Finding short-term romantic or sexual relationships,Finding long-term romantic or sexual relationships",Occasionally,Rarely,5,7,2,2.0,2.0,6
+14,25-34,Man,"Bumble,Match,OKCupid","Finding long-term romantic or sexual relationships,Making friends,Personal validation",Occasionally,Often,5,5,5,6.0,6.0,5
+15,25-34,Woman,"Tinder,OKCupid",Finding short-term romantic or sexual relationships,Rarely,Rarely,6,2,3,2.0,1.0,2
+16,35-44,Woman,"Tinder,Match,OKCupid",Finding short-term romantic or sexual relationships,Occasionally,Often,7,6,1,2.0,1.0,3
+17,25-34,Man,"Tinder,Match,Hinge,Coffee & Bagel",Finding long-term romantic or sexual relationships,Occasionally,Rarely,3,3,2,5.0,2.0,6
+18,35-44,Man,Tinder,Finding short-term romantic or sexual relationships,Occasionally,Rarely,3,5,2,3.0,1.0,3
+19,45-54,Man,I have never used a dating app,I have never used a dating app,Never,Never,3,4,2,2.0,2.0,3
+20,25-34,Man,I have never used a dating app,I have never used a dating app,Never,Never,4,5,2,1.0,1.0,6
+21,25-34,Man,"Tinder,Match,OKCupid,Grindr",Finding long-term romantic or sexual relationships,Often,Rarely,4,5,1,5.0,5.0,4
+22,Over 55,Man,"Tinder,I have never used a dating app",Finding short-term romantic or sexual relationships,Occasionally,Occasionally,5,5,2,2.0,2.0,2
+23,35-44,Man,"Tinder,Bumble,Plenty of Fish,OKCupid","Finding short-term romantic or sexual relationships,Finding long-term romantic or sexual relationships",Rarely,Rarely,2,6,2,5.0,2.0,4
+24,25-34,Woman,I have never used a dating app,I have never used a dating app,Never,Never,4,4,4,4.0,4.0,4
+25,25-34,Woman,"Tinder,OKCupid","Finding long-term romantic or sexual relationships,Making friends",Occasionally,Rarely,3,7,7,7.0,5.0,7
+26,35-44,Woman,Tinder,Making friends,Rarely,Rarely,7,5,7,5.0,1.0,5
+27,25-34,Man,"Tinder,Bumble",Finding long-term romantic or sexual relationships,Rarely,Never,1,4,1,1.0,1.0,5
+28,25-34,Man,"Tinder,Grindr","Finding long-term romantic or sexual relationships,Making friends",Occasionally,Occasionally,6,7,6,5.0,6.0,7
+29,35-44,Man,Tinder,"Finding short-term romantic or sexual relationships,Finding long-term romantic or sexual relationships",Occasionally,Rarely,5,6,5,4.0,3.0,5
+30,25-34,Man,"Tinder,Match,OKCupid","Finding short-term romantic or sexual relationships,Finding long-term romantic or sexual relationships,Making friends",Occasionally,Occasionally,4,7,5,6.0,5.0,7
+31,Over 55,Man,I have never used a dating app,I have never used a dating app,Never,Never,1,4,2,4.0,2.0,1
+32,25-34,Woman,"Tinder,Bumble,Match","Finding long-term romantic or sexual relationships,Personal validation",Often,Rarely,2,5,4,2.0,1.0,7
+33,45-54,Man,"Tinder,Bumble,Match,Grindr","Finding short-term romantic or sexual relationships,Making friends",Occasionally,Occasionally,5,5,3,3.0,2.0,5
+34,25-34,Man,I have never used a dating app,I have never used a dating app,Never,Never,4,4,4,1.0,1.0,1
+35,18-24,Woman,"Tinder,Bumble,Match,Plenty of Fish,Grindr,Other (please describe)","Finding short-term romantic or sexual relationships,Finding long-term romantic or sexual relationships,Making friends,Personal validation,Entertainment",Occasionally,Rarely,3,2,7,6.0,1.0,7
+36,35-44,Woman,Match,"Finding long-term romantic or sexual relationships,Making friends,Entertainment",Occasionally,Often,7,6,2,2.0,3.0,2
+37,35-44,Woman,"Match,Other (please describe)","Finding long-term romantic or sexual relationships,Making friends",Occasionally,Occasionally,5,3,4,3.0,5.0,6
+38,35-44,Woman,OKCupid,"Finding long-term romantic or sexual relationships,Personal validation",Occasionally,Rarely,6,5,2,2.0,2.0,2
+39,25-34,Man,"Tinder,Bumble,Grindr","Finding short-term romantic or sexual relationships,Making friends,Entertainment",Rarely,Occasionally,6,2,2,2.0,1.0,6
+40,Over 55,Man,"Plenty of Fish,Other (please describe)",Finding short-term romantic or sexual relationships,Occasionally,Occasionally,5,5,5,3.0,3.0,3
+41,35-44,Man,"Bumble,Plenty of Fish,Grindr",Finding short-term romantic or sexual relationships,Never,Never,5,5,1,2.0,2.0,2
+42,45-54,Man,"Tinder,Bumble,Match,Plenty of Fish,OKCupid,Hinge","Finding short-term romantic or sexual relationships,Making friends",Rarely,Never,4,5,2,5.0,1.0,7
+43,25-34,Woman,Tinder,"Finding short-term romantic or sexual relationships,Finding long-term romantic or sexual relationships,Making friends,Personal validation,Entertainment",Rarely,Rarely,1,7,1,1.0,1.0,1
+44,18-24,Woman,Match,"Finding long-term romantic or sexual relationships,I have never used a dating app",Never,Never,4,6,5,,4.0,7
+45,35-44,Man,"Tinder,Bumble,Match,OKCupid","Finding short-term romantic or sexual relationships,Finding long-term romantic or sexual relationships,Making friends",Occasionally,Occasionally,5,5,5,5.0,5.0,5
+46,18-24,Woman,,,Never,Never,7,7,5,6.0,7.0,5
+47,35-44,Woman,I have never used a dating app,I have never used a dating app,Never,Never,5,5,4,1.0,5.0,4
+48,25-34,Man,"Tinder,Plenty of Fish","Finding short-term romantic or sexual relationships,Finding long-term romantic or sexual relationships",Occasionally,Rarely,6,6,6,6.0,6.0,6
+49,25-34,Woman,"Tinder,Bumble,Plenty of Fish,OKCupid","Finding short-term romantic or sexual relationships,Finding long-term romantic or sexual relationships,Making friends,Entertainment",Rarely,Rarely,5,1,1,1.0,1.0,4
+50,25-34,Man,"Tinder,OKCupid","Finding long-term romantic or sexual relationships,Making friends",Rarely,Never,3,5,2,5.0,2.0,6
+51,25-34,Man,I have never used a dating app,I have never used a dating app,Never,Never,6,1,2,1.0,1.0,6
+52,35-44,Man,"Tinder,OKCupid,Grindr","Finding short-term romantic or sexual relationships,Finding long-term romantic or sexual relationships,Making friends",Occasionally,Rarely,4,5,3,3.0,2.0,6
+53,25-34,Man,"Tinder,Bumble,Match,Plenty of Fish,OKCupid",Finding long-term romantic or sexual relationships,Occasionally,Occasionally,5,5,6,3.0,3.0,6
+54,45-54,Woman,"Plenty of Fish,OKCupid","Finding long-term romantic or sexual relationships,Making friends",Occasionally,Rarely,5,6,5,5.0,1.0,6
+55,35-44,Man,"Tinder,Bumble,Match,Plenty of Fish,OKCupid,Coffee & Bagel,Other (please describe)",Finding long-term romantic or sexual relationships,Rarely,Rarely,2,2,1,5.0,1.0,5
+56,25-34,Man,"Tinder,Coffee & Bagel",Finding long-term romantic or sexual relationships,Occasionally,Occasionally,3,6,2,3.0,2.0,5
+57,25-34,Man,"Tinder,Bumble","Finding long-term romantic or sexual relationships,Making friends",Occasionally,Rarely,4,4,4,5.0,4.0,5
+58,35-44,Man,"Match,Plenty of Fish",Finding long-term romantic or sexual relationships,Rarely,Never,1,2,1,2.0,1.0,3
+59,18-24,Man,I have never used a dating app,I have never used a dating app,Never,Never,5,4,3,3.0,2.0,4
+60,25-34,Woman,Bumble,"Finding short-term romantic or sexual relationships,Finding long-term romantic or sexual relationships",Occasionally,Rarely,3,6,2,3.0,2.0,6
+61,25-34,Man,I have never used a dating app,I have never used a dating app,Never,Never,3,4,2,2.0,2.0,2
+62,25-34,Man,I have never used a dating app,I have never used a dating app,Never,Never,3,3,1,1.0,1.0,6
+63,45-54,Woman,"Match,Plenty of Fish,OKCupid","Finding long-term romantic or sexual relationships,Entertainment",Rarely,Rarely,4,4,3,2.0,4.0,3
+64,25-34,Woman,Bumble,"Making friends,Entertainment",Rarely,Occasionally,5,5,6,5.0,5.0,5
+65,45-54,Woman,I have never used a dating app,I have never used a dating app,Never,Never,1,3,1,1.0,1.0,1
+66,Over 55,Woman,"OKCupid,Coffee & Bagel",Finding long-term romantic or sexual relationships,Rarely,Never,3,4,2,5.0,2.0,4
+67,45-54,Man,I have never used a dating app,I have never used a dating app,Never,Never,7,2,3,1.0,1.0,2
+68,35-44,Man,"Tinder,Bumble,Match,Plenty of Fish,OKCupid","Finding short-term romantic or sexual relationships,Finding long-term romantic or sexual relationships",Occasionally,Occasionally,5,6,6,6.0,1.0,7
+69,35-44,Man,Match,Entertainment,Rarely,Rarely,1,5,1,1.0,1.0,1
+70,35-44,Woman,"Tinder,Match,OKCupid","Finding short-term romantic or sexual relationships,Finding long-term romantic or sexual relationships,Personal validation,Entertainment",Often,Occasionally,7,7,2,1.0,1.0,6
+71,25-34,Woman,Tinder,Making friends,Rarely,Rarely,5,5,5,3.0,3.0,5
+72,25-34,Woman,"Tinder,Bumble,Plenty of Fish,OKCupid,Grindr","Finding short-term romantic or sexual relationships,Finding long-term romantic or sexual relationships,Making friends",Occasionally,Occasionally,2,5,4,3.0,3.0,3
+73,25-34,Man,"Tinder,OKCupid","Finding long-term romantic or sexual relationships,Making friends,Entertainment",Occasionally,Rarely,3,6,2,3.0,5.0,6
+74,25-34,Woman,"Tinder,Bumble","Finding short-term romantic or sexual relationships,Finding long-term romantic or sexual relationships,Making friends",Occasionally,Occasionally,3,5,3,2.0,1.0,5
+75,35-44,Man,"Tinder,OKCupid",Finding short-term romantic or sexual relationships,Rarely,Rarely,3,4,3,2.0,2.0,5
+76,35-44,Woman,I have never used a dating app,I have never used a dating app,Never,Never,4,5,4,2.0,2.0,6
+77,35-44,Man,"Tinder,Match,Plenty of Fish,OKCupid","Finding long-term romantic or sexual relationships,Making friends,Entertainment",Occasionally,Rarely,2,2,4,2.0,1.0,7
+78,18-24,Woman,Match,"Making friends,Entertainment",Rarely,Never,7,6,7,6.0,7.0,7
+79,Over 55,Woman,"Match,Plenty of Fish,Other (please describe)","Finding long-term romantic or sexual relationships,Making friends",Occasionally,Occasionally,3,3,4,3.0,1.0,5
+80,35-44,Man,OKCupid,"Finding short-term romantic or sexual relationships,Finding long-term romantic or sexual relationships",Occasionally,Rarely,4,4,1,4.0,1.0,4
+81,18-24,Woman,"Tinder,OKCupid","Making friends,Entertainment",Often,Occasionally,6,7,6,7.0,7.0,6
+82,25-34,Woman,I have never used a dating app,I have never used a dating app,Never,Never,4,3,1,4.0,2.0,4
+83,25-34,Man,"Tinder,OKCupid","Finding short-term romantic or sexual relationships,Finding long-term romantic or sexual relationships",Occasionally,Rarely,5,3,2,2.0,1.0,6
+84,25-34,Man,"Tinder,Match,Plenty of Fish,OKCupid,Grindr","Finding short-term romantic or sexual relationships,Finding long-term romantic or sexual relationships,Making friends,Personal validation,Entertainment",Rarely,Often,6,6,7,6.0,5.0,6
+85,25-34,Man,I have never used a dating app,I have never used a dating app,Never,Never,4,6,5,3.0,3.0,5
+86,25-34,Woman,"Tinder,Bumble,OKCupid","Finding short-term romantic or sexual relationships,Finding long-term romantic or sexual relationships,Personal validation,Entertainment",Occasionally,Rarely,5,3,3,4.0,1.0,4
+87,18-24,Woman,Tinder,Entertainment,Rarely,Never,2,3,2,6.0,1.0,7
+88,Over 55,Man,Grindr,"Finding short-term romantic or sexual relationships,Finding long-term romantic or sexual relationships",Often,Occasionally,3,1,5,4.0,1.0,5
+89,25-34,Man,Tinder,Entertainment,Occasionally,Rarely,5,5,7,2.0,5.0,4
+90,25-34,Woman,"Tinder,OKCupid","Finding short-term romantic or sexual relationships,Finding long-term romantic or sexual relationships,Entertainment",Often,Rarely,6,3,2,2.0,4.0,6
+91,25-34,Man,"Tinder,Bumble,Coffee & Bagel","Finding short-term romantic or sexual relationships,Finding long-term romantic or sexual relationships,Making friends,Entertainment",Occasionally,Rarely,5,7,6,6.0,2.0,6
+92,25-34,Man,"Tinder,Bumble","Finding long-term romantic or sexual relationships,Entertainment",Often,Occasionally,5,4,1,2.0,1.0,4
+93,25-34,Man,Grindr,"Making friends,Entertainment",Occasionally,Rarely,5,6,5,4.0,1.0,3
+94,35-44,Woman,"OKCupid,Coffee & Bagel",Finding long-term romantic or sexual relationships,Occasionally,Rarely,5,5,6,3.0,6.0,4
+95,25-34,Man,"Tinder,Bumble,Plenty of Fish","Finding short-term romantic or sexual relationships,Making friends",Rarely,Rarely,3,6,2,3.0,2.0,6
+96,18-24,Woman,Grindr,"Finding long-term romantic or sexual relationships,Making friends",Occasionally,Rarely,4,6,6,4.0,5.0,6
+97,18-24,Non-binary,I have never used a dating app,I have never used a dating app,Never,Never,5,4,4,4.0,1.0,4
+98,Over 55,Woman,"Match,Plenty of Fish","Finding long-term romantic or sexual relationships,Making friends,Entertainment",Occasionally,Often,6,5,4,5.0,2.0,6
+99,35-44,Man,"Tinder,Bumble,Match,Plenty of Fish,OKCupid","Finding short-term romantic or sexual relationships,Finding long-term romantic or sexual relationships",Rarely,Rarely,2,5,3,6.0,2.0,7
+100,45-54,Man,"Match,Plenty of Fish,Other (please describe)","Finding short-term romantic or sexual relationships,Finding long-term romantic or sexual relationships,Making friends",Occasionally,Rarely,3,5,3,5.0,3.0,5
+101,35-44,Man,"Tinder,Match,Plenty of Fish,OKCupid",Finding long-term romantic or sexual relationships,Occasionally,Rarely,3,4,2,5.0,1.0,5
+102,25-34,Woman,"Tinder,Plenty of Fish,Grindr","Finding short-term romantic or sexual relationships,Finding long-term romantic or sexual relationships,Making friends",Occasionally,Occasionally,7,6,2,4.0,1.0,6
+103,45-54,Man,"Tinder,Match","Finding long-term romantic or sexual relationships,Making friends",Occasionally,Rarely,3,6,2,5.0,1.0,6
+104,25-34,Woman,"Tinder,Plenty of Fish,OKCupid","Finding short-term romantic or sexual relationships,Making friends,Entertainment",Occasionally,Rarely,5,6,4,7.0,1.0,7
+105,25-34,Man,"Tinder,Coffee & Bagel",Finding long-term romantic or sexual relationships,Rarely,Rarely,5,5,2,2.0,2.0,5
+106,35-44,Man,Match,"Finding short-term romantic or sexual relationships,Finding long-term romantic or sexual relationships,Personal validation,Entertainment",Often,Often,7,4,7,7.0,2.0,7
+107,25-34,Man,Plenty of Fish,"Finding short-term romantic or sexual relationships,Finding long-term romantic or sexual relationships",Occasionally,Rarely,4,4,4,4.0,2.0,5
+108,35-44,Man,I have never used a dating app,I have never used a dating app,Never,Never,4,3,1,4.0,1.0,5
+109,45-54,Woman,"Match,OKCupid","Finding long-term romantic or sexual relationships,Making friends",Occasionally,Rarely,2,4,2,2.0,2.0,6
+110,45-54,Woman,"Tinder,Plenty of Fish,OKCupid","Finding short-term romantic or sexual relationships,Making friends",Often,Occasionally,6,7,7,6.0,3.0,3
+111,25-34,Man,"Tinder,Plenty of Fish,OKCupid","Finding short-term romantic or sexual relationships,Finding long-term romantic or sexual relationships,Entertainment",Occasionally,Occasionally,7,5,3,7.0,1.0,7
+112,25-34,Woman,"Tinder,Match,OKCupid","Finding short-term romantic or sexual relationships,Finding long-term romantic or sexual relationships",Occasionally,Rarely,2,5,2,1.0,1.0,4
+113,35-44,Man,"Tinder,OKCupid,Grindr",Finding long-term romantic or sexual relationships,Occasionally,Rarely,4,4,3,5.0,1.0,5
+114,25-34,Woman,I have never used a dating app,I have never used a dating app,Never,Never,5,7,3,4.0,2.0,7
+115,25-34,Man,"Tinder,Match,Plenty of Fish,OKCupid,Coffee & Bagel","Finding short-term romantic or sexual relationships,Finding long-term romantic or sexual relationships,Making friends",Occasionally,Occasionally,4,5,2,7.0,6.0,6
+116,Over 55,Woman,"Match,Plenty of Fish,OKCupid","Finding long-term romantic or sexual relationships,Making friends,Entertainment",Rarely,Rarely,6,2,6,2.0,2.0,2
+117,25-34,Man,"Tinder,OKCupid","Finding short-term romantic or sexual relationships,Entertainment",Often,Occasionally,6,6,6,1.0,1.0,5
+118,18-24,Woman,I have never used a dating app,I have never used a dating app,Never,Never,5,3,2,1.0,1.0,7
+119,25-34,Woman,"Tinder,Plenty of Fish","Finding short-term romantic or sexual relationships,Finding long-term romantic or sexual relationships,Making friends",Occasionally,Rarely,5,2,2,5.0,2.0,6
+120,25-34,Man,I have never used a dating app,I have never used a dating app,Never,Never,5,3,1,1.0,1.0,2
+121,25-34,Man,"Tinder,Bumble","Finding short-term romantic or sexual relationships,Finding long-term romantic or sexual relationships,Entertainment",Occasionally,Rarely,2,4,1,1.0,1.0,1
+122,18-24,Woman,"Tinder,Bumble","Finding long-term romantic or sexual relationships,Making friends",Occasionally,Occasionally,4,4,4,3.0,3.0,4
+123,25-34,Man,Match,Finding long-term romantic or sexual relationships,Often,Occasionally,5,4,2,2.0,2.0,5
+124,25-34,Man,"Tinder,Bumble,Match,Plenty of Fish,Hinge","Finding short-term romantic or sexual relationships,Finding long-term romantic or sexual relationships",Occasionally,Occasionally,4,4,2,2.0,2.0,7
+125,25-34,Man,"Tinder,Match,OKCupid","Finding short-term romantic or sexual relationships,Entertainment",Rarely,Occasionally,4,4,5,3.0,,6
+126,25-34,Man,I have never used a dating app,I have never used a dating app,Never,Never,5,5,5,1.0,4.0,5
+127,25-34,Man,"Tinder,Bumble,Match,Plenty of Fish,OKCupid,Hinge,Grindr,Coffee & Bagel","Finding long-term romantic or sexual relationships,Making friends,Entertainment",Rarely,Occasionally,4,1,1,7.0,1.0,7
+128,35-44,Woman,I have never used a dating app,I have never used a dating app,Never,Never,3,2,2,1.0,1.0,7
+129,35-44,Man,"Tinder,Bumble,Plenty of Fish,OKCupid","Finding short-term romantic or sexual relationships,Finding long-term romantic or sexual relationships",Occasionally,Occasionally,6,5,5,2.0,2.0,2
+130,18-24,Woman,Grindr,"Finding long-term romantic or sexual relationships,Making friends,I have never used a dating app",Often,Often,5,5,5,4.0,6.0,7
+131,45-54,Man,"Tinder,OKCupid,Grindr",Finding short-term romantic or sexual relationships,Occasionally,Often,5,3,5,2.0,2.0,2
+132,18-24,Woman,Coffee & Bagel,Personal validation,Occasionally,Rarely,7,6,6,5.0,6.0,5
+133,25-34,Woman,"Tinder,Plenty of Fish,OKCupid,Hinge","Finding short-term romantic or sexual relationships,Finding long-term romantic or sexual relationships,Making friends,Entertainment",Occasionally,Rarely,5,6,4,3.0,1.0,7
+134,35-44,Man,Match,"Finding short-term romantic or sexual relationships,Finding long-term romantic or sexual relationships,Making friends,Entertainment",Occasionally,Rarely,3,4,1,5.0,1.0,4
+135,45-54,Man,"Bumble,Match,Plenty of Fish,OKCupid,Hinge","Finding long-term romantic or sexual relationships,Other",Occasionally,Never,1,2,2,2.0,2.0,2
+136,18-24,Woman,Hinge,"Personal validation,Entertainment",Rarely,Never,3,2,3,2.0,1.0,5
+137,35-44,Man,"Match,Plenty of Fish,OKCupid",Finding long-term romantic or sexual relationships,Occasionally,Occasionally,3,4,2,4.0,1.0,4
+138,35-44,Man,"Tinder,Match","Finding short-term romantic or sexual relationships,Making friends",Often,Occasionally,7,5,5,7.0,3.0,6
+139,35-44,Man,"Tinder,Match,Plenty of Fish,OKCupid",Finding long-term romantic or sexual relationships,Often,Occasionally,4,3,1,1.0,1.0,5
+140,25-34,Woman,"Match,Plenty of Fish","Finding short-term romantic or sexual relationships,Finding long-term romantic or sexual relationships",Rarely,Rarely,3,3,2,2.0,1.0,6
+141,25-34,Woman,"Tinder,OKCupid,Hinge","Finding short-term romantic or sexual relationships,Finding long-term romantic or sexual relationships,Personal validation,Entertainment",Occasionally,Occasionally,5,3,3,2.0,2.0,6
+142,18-24,Man,Tinder,"Finding short-term romantic or sexual relationships,Finding long-term romantic or sexual relationships,Making friends,Entertainment",Occasionally,Rarely,5,4,5,5.0,5.0,4
+143,35-44,Man,"Match,OKCupid","Finding short-term romantic or sexual relationships,Finding long-term romantic or sexual relationships",Often,Occasionally,5,2,4,4.0,1.0,5
+144,35-44,Man,"Tinder,Plenty of Fish,OKCupid","Finding short-term romantic or sexual relationships,Finding long-term romantic or sexual relationships",Occasionally,Occasionally,5,6,3,4.0,2.0,2
+145,25-34,Man,"Tinder,Hinge,Coffee & Bagel","Finding short-term romantic or sexual relationships,Finding long-term romantic or sexual relationships",Occasionally,Occasionally,5,2,1,1.0,1.0,6
+146,25-34,Woman,"Tinder,Bumble,Match,Plenty of Fish,OKCupid","Finding short-term romantic or sexual relationships,Finding long-term romantic or sexual relationships,Making friends",Occasionally,Occasionally,6,7,6,7.0,1.0,6
+147,25-34,Man,"Tinder,OKCupid,Grindr","Finding short-term romantic or sexual relationships,Finding long-term romantic or sexual relationships,Making friends,Entertainment",Occasionally,Rarely,4,2,4,1.0,1.0,1
+148,18-24,Woman,I have never used a dating app,I have never used a dating app,Never,Never,4,7,5,1.0,1.0,5
+149,25-34,Man,"Tinder,Match",Entertainment,Rarely,Never,2,2,2,2.0,2.0,4
+150,45-54,Woman,"Tinder,OKCupid","Finding short-term romantic or sexual relationships,Finding long-term romantic or sexual relationships",Rarely,Never,3,6,2,2.0,1.0,6
+151,25-34,Man,Grindr,"Finding short-term romantic or sexual relationships,Making friends",Occasionally,Rarely,5,6,5,2.0,2.0,5
+152,45-54,Man,Match,"Finding long-term romantic or sexual relationships,Making friends",Occasionally,Occasionally,5,3,2,3.0,1.0,5
+153,25-34,Man,Tinder,Finding long-term romantic or sexual relationships,Occasionally,Rarely,5,3,4,5.0,5.0,6
+154,Over 55,Woman,Match,Finding long-term romantic or sexual relationships,Never,Never,2,2,2,1.0,1.0,5
+155,Over 55,Man,"Tinder,Hinge,Grindr","Finding short-term romantic or sexual relationships,Making friends,Entertainment",Rarely,Occasionally,2,4,3,4.0,2.0,3
+156,25-34,Man,"Tinder,Bumble,Plenty of Fish,OKCupid,Grindr","Finding short-term romantic or sexual relationships,Finding long-term romantic or sexual relationships,Making friends,Entertainment",Rarely,Never,6,7,5,7.0,5.0,5
+157,18-24,Woman,OKCupid,Finding long-term romantic or sexual relationships,Never,Never,5,3,1,1.0,1.0,1
+158,18-24,Woman,"Tinder,OKCupid","Finding short-term romantic or sexual relationships,Finding long-term romantic or sexual relationships,Making friends,Entertainment",Often,Occasionally,6,5,2,6.0,3.0,6
+159,45-54,Woman,"Tinder,Bumble",Making friends,Rarely,Occasionally,4,5,6,3.0,6.0,6
+160,25-34,Man,"Tinder,Plenty of Fish","Finding short-term romantic or sexual relationships,Making friends,Entertainment",Rarely,Rarely,3,1,2,5.0,5.0,4
+161,25-34,Man,"Tinder,Bumble,Plenty of Fish,OKCupid",Finding short-term romantic or sexual relationships,Never,Never,1,2,1,1.0,1.0,1
+162,35-44,Woman,"Match,Plenty of Fish",Finding long-term romantic or sexual relationships,Occasionally,Occasionally,3,4,4,5.0,4.0,5
+163,25-34,Man,Tinder,"Finding short-term romantic or sexual relationships,Entertainment",Occasionally,Rarely,7,7,5,1.0,1.0,7
+164,18-24,Man,"Tinder,Plenty of Fish,Hinge","Making friends,Entertainment",Rarely,Never,2,4,1,5.0,1.0,7
+165,18-24,Woman,I have never used a dating app,I have never used a dating app,Never,Never,4,3,2,4.0,1.0,5
+166,25-34,Woman,"Tinder,Bumble","Finding short-term romantic or sexual relationships,Finding long-term romantic or sexual relationships,Making friends,Personal validation,Entertainment",Occasionally,Occasionally,6,1,6,4.0,4.0,6
+167,35-44,Man,"Tinder,Bumble,Plenty of Fish,OKCupid","Finding short-term romantic or sexual relationships,Finding long-term romantic or sexual relationships,Making friends,Entertainment",Rarely,Rarely,6,3,5,2.0,2.0,2
+168,25-34,Man,Clover,Making friends,Rarely,Occasionally,5,4,5,6.0,3.0,5
+169,35-44,Man,Match,Finding long-term romantic or sexual relationships,Occasionally,Occasionally,3,5,3,3.0,2.0,5
+170,35-44,Prefer not to disclose,I have never used a dating app,I have never used a dating app,Never,Never,3,3,3,2.0,2.0,2
+171,25-34,Man,Tinder,"Finding short-term romantic or sexual relationships,Finding long-term romantic or sexual relationships",Rarely,Rarely,7,6,1,1.0,1.0,6
+172,35-44,Man,"Tinder,Bumble,Match,Plenty of Fish","Finding short-term romantic or sexual relationships,Finding long-term romantic or sexual relationships",Occasionally,Rarely,6,3,1,4.0,2.0,2
+173,25-34,Man,"Tinder,OKCupid,Hinge,Grindr",Finding long-term romantic or sexual relationships,Occasionally,Rarely,2,2,1,6.0,1.0,2
+174,18-24,Man,"Tinder,Match","Finding long-term romantic or sexual relationships,Making friends",Occasionally,Occasionally,7,7,7,5.0,5.0,5
+175,18-24,Man,"Tinder,Bumble","Finding short-term romantic or sexual relationships,Personal validation,Entertainment",Occasionally,Occasionally,4,4,4,5.0,3.0,4
+176,18-24,Man,"Tinder,Bumble,Match,Clover","Finding short-term romantic or sexual relationships,Finding long-term romantic or sexual relationships",Often,Rarely,1,5,1,1.0,1.0,6
+177,25-34,Man,"Tinder,Match,Plenty of Fish","Finding short-term romantic or sexual relationships,Making friends",Rarely,Rarely,6,6,5,6.0,3.0,6
+178,25-34,Man,Tinder,Finding long-term romantic or sexual relationships,Occasionally,Rarely,2,5,1,5.0,2.0,7
+179,25-34,Woman,"Tinder,Bumble,Match,Plenty of Fish,OKCupid,Hinge","Finding long-term romantic or sexual relationships,Making friends",Often,Occasionally,5,5,5,5.0,5.0,5
+180,25-34,Woman,Tinder,"Finding short-term romantic or sexual relationships,Finding long-term romantic or sexual relationships,Making friends",Occasionally,Occasionally,4,3,2,6.0,6.0,6
+181,25-34,Man,"Tinder,Grindr","Finding short-term romantic or sexual relationships,Making friends,Personal validation,Entertainment",Occasionally,Occasionally,5,3,4,6.0,2.0,6
+182,25-34,Man,"Match,Coffee & Bagel","Finding short-term romantic or sexual relationships,Finding long-term romantic or sexual relationships,Entertainment",Rarely,Never,5,5,5,4.0,5.0,6
+183,25-34,Man,"Tinder,Match,Plenty of Fish","Finding short-term romantic or sexual relationships,Finding long-term romantic or sexual relationships",Occasionally,Occasionally,2,4,2,2.0,1.0,5
+184,35-44,Woman,"Tinder,Bumble,Match,Plenty of Fish,OKCupid,Hinge",Finding long-term romantic or sexual relationships,Occasionally,Rarely,2,1,1,2.0,1.0,6
+185,18-24,Woman,"Tinder,Bumble,Hinge","Finding short-term romantic or sexual relationships,Entertainment",Occasionally,Occasionally,5,5,4,1.0,1.0,2
+186,35-44,Man,"OKCupid,Other (please describe)",Finding long-term romantic or sexual relationships,Rarely,Rarely,2,4,6,1.0,1.0,5
+187,35-44,Man,"Tinder,Plenty of Fish,OKCupid,Grindr","Finding short-term romantic or sexual relationships,Finding long-term romantic or sexual relationships",Occasionally,Occasionally,7,7,6,2.0,1.0,5
+188,25-34,Woman,"Tinder,Bumble,Other (please describe)","Finding long-term romantic or sexual relationships,Making friends,Personal validation",Often,Rarely,7,6,2,6.0,1.0,5
+189,25-34,Man,"Tinder,Plenty of Fish,OKCupid",Entertainment,Rarely,Never,3,5,3,3.0,5.0,5
+190,25-34,Woman,Plenty of Fish,Finding long-term romantic or sexual relationships,Rarely,Rarely,5,3,3,6.0,4.0,6
+191,35-44,Man,"Match,Plenty of Fish","Finding long-term romantic or sexual relationships,Making friends,Entertainment",Rarely,Rarely,3,5,2,3.0,1.0,5
+192,25-34,Man,"Tinder,Plenty of Fish,OKCupid","Finding short-term romantic or sexual relationships,Finding long-term romantic or sexual relationships",Occasionally,Occasionally,6,5,4,4.0,5.0,5
+193,18-24,Woman,Plenty of Fish,"Making friends,Entertainment",Rarely,Occasionally,4,4,4,2.0,3.0,2
+194,25-34,Woman,Coffee & Bagel,"Finding short-term romantic or sexual relationships,Finding long-term romantic or sexual relationships,Making friends,Personal validation,Entertainment,Other,I have never used a dating app",Occasionally,Occasionally,5,5,6,5.0,6.0,5
+195,35-44,Woman,Match,Finding long-term romantic or sexual relationships,Occasionally,Rarely,5,2,1,5.0,2.0,3
+196,35-44,Man,Tinder,"Finding short-term romantic or sexual relationships,Finding long-term romantic or sexual relationships,Making friends,Entertainment",Occasionally,Occasionally,5,5,4,4.0,2.0,5
+197,45-54,Woman,"Tinder,Match,Plenty of Fish","Finding short-term romantic or sexual relationships,Finding long-term romantic or sexual relationships,Making friends",Often,Occasionally,5,6,5,5.0,3.0,6
+198,18-24,Woman,"Tinder,Bumble","Finding short-term romantic or sexual relationships,Finding long-term romantic or sexual relationships",Occasionally,Rarely,3,6,5,4.0,4.0,4
+199,25-34,Man,"Tinder,Bumble,Match,Plenty of Fish,OKCupid,Hinge,Coffee & Bagel","Finding short-term romantic or sexual relationships,Finding long-term romantic or sexual relationships",Rarely,Rarely,1,1,1,3.0,1.0,5
